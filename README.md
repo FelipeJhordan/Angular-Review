@@ -5,4 +5,4 @@
 - Botar em prática alguma coisa de html/css após muito tempo mexendo somente com back-end;
 
 ## Sumário 
-- [Pokedex](./pokedex/README.MD)
+- [Pokedex](./pokedex/README.md)
