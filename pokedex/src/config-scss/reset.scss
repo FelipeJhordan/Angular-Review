@@ -8,7 +8,9 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     padding: 0;
     border: 0;
     font-size: 100%;
+    font-weight: 400;
     font: inherit;
+    font-family: "Roboto", sans-serif;
     vertical-align: baseline; }
   
   /* HTML5 display-role reset for older browsers */
@@ -38,3 +40,14 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   table {
     border-collapse: collapse;
     border-spacing: 0; }
+
+a {
+  outline: none;
+  text-decoration: none !important;
+  cursor: pointer;
+  color: var(--primary-color);
+}
+
+input {
+  outline: none;
+}
