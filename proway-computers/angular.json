@@ -109,5 +109,8 @@
       }
     }
   },
-  "defaultProject": "proway-computers"
+  "defaultProject": "proway-computers",
+  "cli": {
+    "analytics": "f4a8561c-eff8-4eb8-b489-5f4397e5e20a"
+  }
 }
